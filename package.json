@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-trn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-variable/eslint-config-trn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n-variable/eslint-config-trn/issues"
+  },
+  "homepage": "https://github.com/n-variable/eslint-config-trn#readme",
+  "dependencies": {
+    "eslint": "^8.18.0"
+  }
+}
